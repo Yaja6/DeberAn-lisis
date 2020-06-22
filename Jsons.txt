@@ -1,0 +1,242 @@
+﻿{
+  "título": "Mary and Max",
+  "dirección": "Adam Elliot",
+  "producción": [
+   "Melanie Coombs"
+  ],
+  "guión": [
+   "Adam Elliot"
+  ],
+  "música": "Dale Cornelius",
+  "país": "Australia",
+  "año": 2009,
+  "género": [
+   "Comedia dramática",
+   "Animación"
+  ],
+  "duración": 90,
+  "idiomas": [
+   "Inglés"
+  ]
+}
+
+{
+  "título": "Hachi,A Dog's Tale",
+  "dirección": "Lasse Hallstrom",
+  "producción": [
+   "Richard Gere"
+  ],
+  "guión": [
+   "Stephen P. Lindsey"
+  ],
+  "música": "Jan A. P. Kaczmarek",
+  "país": "Estados Unidos",
+  "año": 2009,
+  "género": [
+   "Drama"
+  ],
+  "duración": 93,
+  "idiomas": [
+   "Inglés"
+  ]
+}
+
+{
+  "título": "The Lion King",
+  "dirección": "Rob Minkoff",
+  "producción": [
+   "Don Hahn"
+  ],
+  "guión": [
+   "Linda Woolverton",
+   "Irene Mecchi",
+   "Jonathan Roberts"
+  ],
+  "música": "Hans Zimmer",
+  "país": "Estados Unidos",
+  "año": 1994,
+  "género": [
+   "Musical",
+   "Animación",
+   "Película infantil",
+   "Drama"
+  ],
+  "duración": 88,
+  "idiomas": [
+   "Inglés"
+  ]
+}
+
+{
+  "título": "Man on Fire",
+  "dirección": "Tony Scott",
+  "producción": [
+   "Lucas Foster"
+  ],
+  "guión": [
+   "Brian Helgeland"
+  ],
+  "música": "Harry Gregsonb-Williams",
+  "país": "Estados Unidos",
+  "año": 2004,
+  "género": [
+   "Acción",
+   "Drama",
+   "Suspenso"
+  ],
+  "duración": 146,
+  "idiomas": [
+   "Inglés",
+   "Español"
+  ]
+}
+
+{
+  "título": "Anabelle Comes Home",
+  "dirección": "Gary Dauberman",
+  "producción": [
+   "James Wan"
+  ],
+  "guión": [
+   "Gary Dauberman"
+  ],
+  "música": "Joseph Bishara",
+  "país": "Estados Unidos",
+  "año": 2019,
+  "género": [
+   "Terror sobrenatural",
+   "Drama",
+   "Misterio",
+   "Terror"
+  ],
+  "duración": 106,
+  "idiomas": [
+   "Inglés"
+  ]
+}
+
+{
+  "título": "Hotaro no Haka (La tumba de las luciérnagas)",
+  "dirección": "Isao Takahata",
+  "producción": [
+   "Toru Hara"
+  ],
+  "guión": [
+   "Isao Takahata",
+   "Akiyuki Nosaka"
+  ],
+  "música": "Michio Mamiya",
+  "país": "Japón",
+  "año": 1988,
+  "género": [
+   "Animación",
+   "Drama"
+  ],
+  "duración": 89,
+  "idiomas": [
+   "Japonés"
+  ]
+}
+{
+  "título": "Joker",
+  "dirección": "Todd Phillips",
+  "producción": [
+   "Todd Phillips",
+   "Bradley Cooper",
+   "Emma Tillinger Koskof"
+  ],
+  "guión": [
+   "Todd Phillips",
+   "Scott Silver"
+  ],
+  "música": "Hildur Guonadóttir",
+  "país": "Estados Unidos",
+  "año": 2019,
+  "género": [
+   "Crimen",
+   "Drama",
+   "Suspenso"
+  ],
+  "duración": 122,
+  "idiomas": [
+   "Inglés"
+  ]
+}
+
+{
+  "título": "Once Upon a Time in Hollywood",
+  "dirección": "Quentin Tarantino",
+  "producción": [
+   "Quentin Tarantino",
+   "David Heyman",
+   "Shannon McIntosh"
+  ],
+  "guión": [
+   "Quentin Tarantino"
+  ],
+  "música": "varias bandas",
+  "país": "Estados Unidos, Reino Unido",
+  "año": 2019,
+  "género": [
+   "Comedia dramática",
+   "Cine de humor negro",
+   "Drama",
+   "Cine de crímenes",
+   "Cine ucrónico"
+  ],
+  "duración": 160,
+  "idiomas": [
+   "Inglés"
+  ]
+}
+
+{
+  "título": "Men in black",
+  "dirección": "Barry Sonnenfeld",
+  "producción": [
+   "Steven Spielberg",
+   "Walter F. Parkes",
+   "Laurie MacDonald"
+  ],
+  "guión": [
+   "Ed Solomon"
+  ],
+  "música": "Dannt Elfman",
+  "país": "Estados Unidos",
+  "año": 1997,
+  "género": [
+   "Acción",
+   "Aventura",
+   "Ciencia",
+   "Ficción",
+   "Comedia"
+  ],
+  "duración": 98,
+  "idiomas": [
+   "Inglés"
+  ]
+}
+
+{
+  "título": "Kimi no Na Wa (Your Name)",
+  "dirección": "Makoto Shinkai",
+  "producción": [
+   "Norikata Kawaguchi"
+  ],
+  "guión": [
+   "Makoto Shikai"
+  ],
+  "música": "Radwimps",
+  "país": "Japón",
+  "año": 2016,
+  "género": [
+   "Anime",
+   "Drama",
+   "Fantasía",
+   "Romance"
+  ],
+  "duración": 106,
+  "idiomas": [
+   "Japonés"
+  ]
+}
