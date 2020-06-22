@@ -1,0 +1,76 @@
+//Función para mostrar qué películas pertenecen a más de 3 géneros
+function(doc) {
+  if(doc.género){
+      if(doc.género.length >3){
+        emit(doc.título);
+      }
+    }
+}
+
+//2.	Función para listas las películas que se hayan creado en 2019
+function (doc) {
+  if(doc.año == 2019){
+    emit(doc.título);
+  }
+}
+
+//3.	Función para listar las películas junto sus años, que se crearon en años mayores al 2000
+function(doc) {
+  if(doc.año > 2000){
+    emit(doc.título,doc.año);
+  }
+}  
+//4.	Función para sumar la duración de películas por cada idioma (_sum)
+ function (doc) {
+  if(doc.idiomas){
+    for(var i in doc.idiomas){
+      emit(doc.idiomas[i],doc.duración);
+    }
+  }
+} 
+//5.	Función que lista las películas donde el productor es también guionista
+function (doc) {
+  if(doc.producción,doc.guión){
+   for(var i in doc.producción){
+     if(doc.producción[i]==doc.guión[i]){
+      emit(doc.título);
+     }
+   }
+  }
+}
+//6.	Función para listar las películas con su director
+function (doc) {
+  emit(doc.título,doc.dirección);
+}  
+//7.	Función para contar las películas realizadas en los años después del 2000 (_count)
+function (doc) {
+  if(doc.año >2000){
+    emit(doc.año)
+  }
+}  
+//8.	Función para contar las películas según el idioma(_count)
+function (doc) {
+  if(doc.idiomas){
+    for(var i in doc.idiomas){
+      emit(doc.idiomas[i])
+    }
+  }
+}  
+//9.	Función para contar las películas realizadas en cada país(_count)
+function (doc) {
+  if(doc.país){
+    emit(doc.país);
+  }
+} 
+ 
+//10.	Función para listar las películas de Suspenso
+function (doc) {
+  if(doc.género){
+    for(var i in doc.género){
+      if(doc.género[i] == "Suspenso"){
+        emit(doc.título,doc.género);
+      }
+    }
+  }
+}
+  
